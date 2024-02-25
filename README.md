@@ -21,17 +21,14 @@ Estoy entusiasmado por seguir aprendiendo y aplicando mis habilidades en desafia
 [![Correo Electrónico](https://img.shields.io/badge/Correo%20Electrónico-andresgvelasquez8@gmail.com-red?style=for-the-badge&logo=mail.ru)](mailto:andresgvelasquez8@gmail.com)  
 
 Habilidades Técnicas  
+
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white&logoWidth=40)
 ![Pandas](https://img.shields.io/badge/-Pandas-blue?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-blue?style=for-the-badge&logo=numpy&logoColor=white)
-
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-blue?style=for-the-badge&logo=python&logoColor=white)
-
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-blue?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-blue?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-
 ![SQL](https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=sql&logoColor=white)
 
 
