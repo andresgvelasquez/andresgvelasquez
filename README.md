@@ -17,7 +17,9 @@ Estoy entusiasmado por seguir aprendiendo y aplicando mis habilidades en desafia
 
 📫 Contacto
 
-[LinkedIn](https://www.linkedin.com/in/andres946)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres946/)  
+[![Correo Electrónico](https://img.shields.io/badge/Correo%20Electrónico-Dirección%20de%20Correo%20Electrónico-red?style=for-the-badge&logo=mail.ru)](mailto:andresgvelasquez8@gmail.com)
+
 Correo electrónico: andresgvelasquez8@gmail.com
 
 Habilidades Técnicas
