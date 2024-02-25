@@ -1,7 +1,7 @@
 Black Minimal Motivation Quote LinkedIn Banner.png
 
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/andresgvelasquez/andresgvelasquez/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png" width="800"/>
+  <img decoding="async" src="https://github.com/andresgvelasquez/andresgvelasquez/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png" width="900"/>
 </div>
 
 👋 ¡Hola! Soy Esteban, un apasionado autodidacta que disfruta desentrañar acertijos y abordar desafíos complejos. Comencé mi carrera profesional como ingeniero electromecánico, pero me he reinventado hacia el emocionante mundo de los datos.
