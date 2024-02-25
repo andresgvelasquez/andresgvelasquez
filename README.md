@@ -19,3 +19,6 @@ Estoy entusiasmado por seguir aprendiendo y aplicando mis habilidades en desafia
 
 [LinkedIn](https://www.linkedin.com/in/andres946)  
 Correo electrónico: andresgvelasquez8@gmail.com
+
+Habilidades Técnicas
+https://img.shields.io/badge/any_text-you_like-blue
