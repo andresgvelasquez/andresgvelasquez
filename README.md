@@ -22,7 +22,7 @@ Estoy entusiasmado por seguir aprendiendo y aplicando mis habilidades en desafia
 
 Habilidades Técnicas  
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white&logoWidth=40)
-![SQL](https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J/AAAAu0lEQVR42u3RMQEAAAjDsAvk/9K5mIptAAbUN9LcHfM/DJUhC7KzeoswDLeiDVfJtspA+gBZCXw7HsLdSzep9xv8CZ5DvjS7kGWPCysLoQPQagU8/5ABFAADThBlAZP8jhgAAAABJRU5ErkJggg==&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAAAmklEQVR42mNkIAIwEk8EQaGqKhRIAsBgBykDmqAJ7E4cM9AySYAdmUANBmzKApwDZIABtAgAMt4Z/xj3hAYQwBjywd+U9ZQeABrOqAqgHjJwExMvATCjXf//oD/ZXwENlEIWfO+D8QGKsA/obAgxj6FYGPjFQqAABlwAKGxR0cwazogAAAABJRU5ErkJggg==&logoColor=white)
 
 
 
