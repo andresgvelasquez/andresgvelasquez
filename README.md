@@ -22,6 +22,7 @@ Estoy entusiasmado por seguir aprendiendo y aplicando mis habilidades en desafia
 
 Habilidades Técnicas  
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white&logoWidth=40)
+![Pandas](https://img.shields.io/badge/-Pandas-blue?style=for-the-badge&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=sql&logoColor=white)
 
 
