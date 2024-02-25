@@ -21,7 +21,7 @@ Estoy entusiasmado por seguir aprendiendo y aplicando mis habilidades en desafia
 [![Correo Electrónico](https://img.shields.io/badge/Correo%20Electrónico-andresgvelasquez8@gmail.com-red?style=for-the-badge&logo=mail.ru)](mailto:andresgvelasquez8@gmail.com)  
 
 Habilidades Técnicas  
-![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoWidth=40)  
+![Python](https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python&logoWidth=40)
 ![SQL](https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logoWidth=40)
 
 
