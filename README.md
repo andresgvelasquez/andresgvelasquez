@@ -4,7 +4,7 @@
 
 Durante mi bootcamp en Data Science, me sumergí en un entorno ágil, donde la colaboración y la ejecución eficiente de proyectos por medio de sprints fueron fundamentales. Esta metodología no solo afiló mi capacidad para gestionar el tiempo, sino que también me enseñó a mantener el enfoque en objetivos concretos y adaptarme rápidamente a los cambios del entorno.
 
-- Programación: Python (intermedio). Profundo conocimiento de librerías como Pandas, Numpy, Seaborn, Scikit-learn, TensorFlow, entre otras.
+- Programación:   Python (intermedio). Profundo conocimiento de librerías como Pandas, Numpy, Seaborn, Scikit-learn, TensorFlow, entre otras.
 - Bases de datos: Conocimientos básicos de SQL.
 - Visualización: Experiencia en la creación de visualizaciones efectivas utilizando matplotlib y seaborn.
 - Machine Learning: Amplia comprensión y aplicación de modelos de aprendizaje supervisado y no supervisado.
@@ -30,6 +30,10 @@ Habilidades Técnicas
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-blue?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-blue?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=sql&logoColor=white)
+![NLP](https://img.shields.io/badge/-NLP-blue?style=for-the-badge&logo=book&logoColor=white)
+![NLTK](https://img.shields.io/badge/-NLTK-blue?style=for-the-badge&logo=nltk&logoColor=white)
+![spaCy](https://img.shields.io/badge/-spaCy-blue?style=for-the-badge&logo=spacy&logoColor=white)
+
 
 
 
