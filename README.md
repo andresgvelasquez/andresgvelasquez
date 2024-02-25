@@ -21,4 +21,5 @@ Estoy entusiasmado por seguir aprendiendo y aplicando mis habilidades en desafia
 Correo electrónico: andresgvelasquez8@gmail.com
 
 Habilidades Técnicas
-![Android](https://img.shields.io/badge/Python-you_like-blue)</br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres946/)
+
