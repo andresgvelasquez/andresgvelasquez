@@ -1,3 +1,9 @@
+Black Minimal Motivation Quote LinkedIn Banner.png
+
+<div id="header" align="center">
+  <img decoding="async" src="https://github.com/andresgvelasquez/andresgvelasquez/Black Minimal Motivation Quote LinkedIn Banner.png" width="800"/>
+</div>
+
 👋 ¡Hola! Soy Esteban, un apasionado autodidacta que disfruta desentrañar acertijos y abordar desafíos complejos. Comencé mi carrera profesional como ingeniero electromecánico, pero me he reinventado hacia el emocionante mundo de los datos.
 
 💼 Experiencia y habilidades
