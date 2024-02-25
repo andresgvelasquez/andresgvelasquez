@@ -33,6 +33,7 @@ Habilidades Técnicas
 ![NLP](https://img.shields.io/badge/-NLP-blue?style=for-the-badge&logo=book&logoColor=white)
 ![NLTK](https://img.shields.io/badge/-NLTK-blue?style=for-the-badge&logo=nltk&logoColor=white)
 ![spaCy](https://img.shields.io/badge/-spaCy-blue?style=for-the-badge&logo=spacy&logoColor=white)
+![Visión Artificial](https://img.shields.io/badge/-Visión_Artificial-blue?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J/AAAA5ElEQVR42mNgoBNQikwBZAaR+BzAqK4xMdYXQAtiKK4xMaAxtdrOYCsMwDmAMWtupwmAnECqK5gCqCfMtFLjAGWADG9EaPZiDMYgDMYG2F1DK4xMacJwAxDKowG+D4GyG1RgAtiKKowGyBlWgBM4xOyjUDcAE5EaYpwgA6GtRgDcAdqowFmC9RpAqIoyxTF1gApbAGZBqK4whFYBmK5gDtNqK5wwjsS0Nk5J5X1vcAAAAASUVORK5CYII=&logoColor=white)
 
 
 
