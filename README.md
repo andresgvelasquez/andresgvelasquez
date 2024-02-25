@@ -1,5 +1,3 @@
-Black Minimal Motivation Quote LinkedIn Banner.png
-
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/andresgvelasquez/andresgvelasquez/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png" width="900"/>
 </div>
