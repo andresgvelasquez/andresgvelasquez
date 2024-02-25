@@ -1,4 +1,5 @@
 👋 ¡Hola! Soy Esteban, un apasionado autodidacta que disfruta desentrañar acertijos y abordar desafíos complejos. Comencé mi carrera profesional como ingeniero electromecánico, pero me he reinventado hacia el emocionante mundo de los datos.
+
 💼 Experiencia y habilidades
 
 Durante mi bootcamp en Data Science, me sumergí en un entorno ágil, donde la colaboración y la ejecución eficiente de proyectos por medio de sprints fueron fundamentales. Esta metodología no solo afiló mi capacidad para gestionar el tiempo, sino que también me enseñó a mantener el enfoque en objetivos concretos y adaptarme rápidamente a los cambios del entorno.
@@ -13,6 +14,7 @@ Durante mi bootcamp en Data Science, me sumergí en un entorno ágil, donde la c
 🚀 Objetivos
 
 Estoy entusiasmado por seguir aprendiendo y aplicando mis habilidades en desafiantes proyectos colaborativos. ¡Espero conectar contigo pronto!
+
 📫 Contacto
 
     LinkedIn: linkedin.com/in/andres946
