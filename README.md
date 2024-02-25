@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/andresgvelasquez/andresgvelasquez/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png" width="900"/>
 </div>   
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres946/)
 [![Correo Electrónico](https://img.shields.io/badge/Correo%20Electrónico-andresgvelasquez8@gmail.com-red?style=for-the-badge&logo=mail.ru)](mailto:andresgvelasquez8@gmail.com)  
 
