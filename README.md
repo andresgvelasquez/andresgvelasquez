@@ -25,7 +25,7 @@ Durante mi bootcamp en Data Science, me sumergí en un entorno ágil, donde la c
 ![spaCy](https://img.shields.io/badge/-spaCy-blue?style=for-the-badge&logo=spacy&logoColor=white)
 ![Visión Artificial](https://img.shields.io/badge/-Visión_Artificial-blue?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J/AAAA5ElEQVR42mNgoBNQikwBZAaR+BzAqK4xMdYXQAtiKK4xMaAxtdrOYCsMwDmAMWtupwmAnECqK5gCqCfMtFLjAGWADG9EaPZiDMYgDMYG2F1DK4xMacJwAxDKowG+D4GyG1RgAtiKKowGyBlWgBM4xOyjUDcAE5EaYpwgA6GtRgDcAdqowFmC9RpAqIoyxTF1gApbAGZBqK4whFYBmK5gDtNqK5wwjsS0Nk5J5X1vcAAAAASUVORK5CYII=&logoColor=white)
 
-- Programación:   Python (intermedio). Profundo conocimiento de librerías como Pandas, Numpy, Seaborn, Scikit-learn, TensorFlow, entre otras.
+- Programación:   Python. Conocimiento de librerías como Pandas, Numpy, Seaborn, Scikit-learn, TensorFlow, entre otras.
 - Bases de datos: Conocimientos básicos de SQL.
 - Visualización: Experiencia en la creación de visualizaciones efectivas utilizando matplotlib y seaborn.
 - Machine Learning: Amplia comprensión y aplicación de modelos de aprendizaje supervisado y no supervisado.
@@ -35,18 +35,3 @@ Durante mi bootcamp en Data Science, me sumergí en un entorno ágil, donde la c
 🚀 Objetivos
 
 Estoy entusiasmado por seguir aprendiendo y aplicando mis habilidades en desafiantes proyectos colaborativos. ¡Espero conectar contigo pronto!
-
-📫 Contacto
-
-
-
-
-Habilidades Técnicas  
-
-
-
-
-
-
-
-
