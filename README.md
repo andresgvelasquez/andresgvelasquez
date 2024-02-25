@@ -17,7 +17,7 @@ Estoy entusiasmado por seguir aprendiendo y aplicando mis habilidades en desafia
 
 📫 Contacto
 
-LinkedIn: linkedin.com/in/andres946
+LinkedIn: linkedin.com/in/andres946  
 Correo electrónico: andresgvelasquez8@gmail.com
 
 <!--
